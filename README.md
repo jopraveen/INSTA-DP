@@ -1,2 +1,6 @@
 # INSTA-DP
-Use this tool to download the profile pic of an instagram user
+run this command first to install all requirements
+
+```bash requirements.sh```
+
+![preview](ig_profile.gif)
